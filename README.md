@@ -1,7 +1,5 @@
 <a href="https://lucaslarroche.com">
-  <svg width="24" viewBox="0 0 4 4" role="img">
-    <path d="M0 0h1v3h1v1H0zM4 4H3V1H2V0h2z" fill="#CA0000" />
-  </svg>
+  <img src="https://lucaslarroche.com/img/logo-ll.png" alt="Lucas Larroche" width="24"/>
 </a>
 
 # Lucas Larroche
