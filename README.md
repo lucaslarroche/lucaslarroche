@@ -4,15 +4,10 @@
 
 # Lucas Larroche
 
-**I'm entrepreneur, digital marketer and developer.**
+**I'm CRO consultant & Front-end developer.**
 
-I generate qualified leads for my clients in affiliate marketing.
+I generate qualified leads for my clients and I code accessible, lightweight & high conversion rates landing pages.
 
-I built a programmatic smart bidding engine to manage my advertising campaigns at scale (tens of thousands of actives campaigns).
-
-**My open source projects:**
-
-- [Pico](https://picocss.com/), a graceful & minimal CSS design system in pure semantic HTML
-- [Digital Guide](https://digitalguide.co/), a mini-guide to digital survival
+I built a programmatic smart bidding engine to manage my advertising campaigns at scale and a [Minimal CSS design system](https://picocss.com/).
 
 You can contact me on [lucas@larroche.com](mailto:lucas@larroche.com)
