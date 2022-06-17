@@ -10,4 +10,4 @@ I generate qualified leads for my clients and I code accessible, lightweight & h
 
 I built a programmatic smart bidding engine to manage my advertising campaigns at scale and a [Minimal CSS design system](https://picocss.com/).
 
-You can contact me on [lucas@larroche.com](mailto:lucas@larroche.com)
+You can contact me at [lucas@larroche.com](mailto:lucas@larroche.com)
