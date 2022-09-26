@@ -1,13 +1,13 @@
 <a href="https://lucaslarroche.com">
-  <img src="https://lucaslarroche.com/img/logo-ll.png" alt="Lucas Larroche" width="24"/>
+  <img src="https://lucaslarroche.com/assets/logo-ll.png" alt="Lucas Larroche" width="24"/>
 </a>
 
 # Lucas Larroche
 
-**I'm CRO consultant & Front-end developer.**
+**I'm front-end Designer & Developer.**
 
-I generate qualified leads for my clients and I code accessible, lightweight & high conversion rates landing pages.
+I design and build accessible, lightweight & high conversion rates landing pages and generate qualified leads for my clients.
 
-I built a programmatic smart bidding engine to manage my advertising campaigns at scale and a [Minimal CSS design system](https://picocss.com/).
+I built a [Minimal CSS design system](https://picocss.com/).
 
 You can contact me at [lucas@larroche.com](mailto:lucas@larroche.com)
