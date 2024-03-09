@@ -4,7 +4,7 @@
 
 # Lucas Larroche
 
-**I'm UI/UX Designer.**
+**I'm UI/UX Designer & Front-end Developer.**
 
 I design and build digital experiences and high-conversion rate landing pages for my clients.
 
