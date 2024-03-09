@@ -4,10 +4,8 @@
 
 # Lucas Larroche
 
-**I'm front-end Designer & Developer.**
+**I'm UI/UX Designer.**
 
-I design and build accessible, lightweight & high conversion rates landing pages and generate qualified leads for my clients.
+I design and build digital experiences and high-conversion rate landing pages for my clients.
 
-I built a [Minimal CSS design system](https://picocss.com/).
-
-You can contact me at [lucas@larroche.com](mailto:lucas@larroche.com)
+Additionally, I’m building [Pico CSS](https://picocss.com/), an open-source Minimal CSS Framework for Semantic HTML.
